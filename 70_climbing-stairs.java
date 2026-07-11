@@ -1,5 +1,3 @@
-
-
 class Main {
     public int climbStairs(int n) {
         if (n <= 2) {
